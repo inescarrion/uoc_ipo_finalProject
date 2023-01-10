@@ -1,0 +1,13 @@
+# Final Project - Human-Computer Interaction subject
+***Student:** Inés Carrión Orosa*
+<br>***Project name:** Mejora del proceso de búsqueda en una interfaz de reserva de alojamientos (Improvement of the search process in an acommodation booking interface)*
+
+<p>This project was made for the subject "Interacción Persona-Ordenador (Human-Computer Interaction)" taught at <a href="https://www.uoc.edu/portal/es/index.html">Universitat Oberta de Catalunya</a> (UOC).</p>
+
+<p><a href="https://www.figma.com/proto/uwzUJt1fVdTSawbDeW5hDK/Book-a-flat?node-id=2%3A2&starting-point-node-id=2%3A2&scaling=contain">Link to the prototype</a> made with Figma.</p>
+
+<h2>Abstract</h2>
+<p>The main objective is to improve the search process of an interface dedicated to accommodation booking, optimising the user experience and making the design more accessible, simple and intuitive. The main problems detected when analysing different accommodation booking platforms have been the visibility of some elements during the search process and the non-compliance with accessibility and universal design criteria. Therefore, some improvements have been proposed, mainly based on highlighting and placing some elements in more visible places, applying certain techniques to comply with accessibility and universal design criteria and making the interface clearer and more minimalist. Finally, the prototype implementing all the proposed improvements has been evaluated and it has been concluded that the user experience has been significantly improved.</p>
+
+<h2>Resumen</h2>
+<p>El objetivo principal es conseguir mejorar el proceso de búsqueda de una interfaz dedicada a reservar alojamientos, optimizando la experiencia de los usuarios y haciendo que el diseño sea más accesible, simple e intuitivo. Los principales problemas detectados al analizar diversas plataformas de reserva de alojamientos han sido la visibilidad de algunos elementos durante el proceso de búsqueda y el incumplimiento de los criterios de accesibilidad y diseño universal. Por lo tanto, se han propuesto una serie de mejoras, basadas principalmente en destacar y poner algunos elementos en lugares más visibles, aplicar ciertas técnicas para cumplir los criterios de accesibilidad y diseño universal y hacer una interfaz más clara y minimalista. Finalmente, se ha evaluado el prototipo realizado que implementa todas las mejoras propuestas y se ha llegado a la conclusión de que se ha mejorado significativamente la experiencia de los usuarios.</p>
